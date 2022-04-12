@@ -3,7 +3,7 @@
 /**
  * main-main block
  * Return: Always 0
- * priint alphabet - to print the alphabets
+ * priint_alphabet - to print the alphabets
  */
 
 void print_alphabet(void)
