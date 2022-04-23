@@ -1,3 +1,12 @@
+#include "main.h"
+
+/**
+ * string_toupper - changes all lower case to capital letters
+ * @str: string to modify
+ * Description: changes all lower case letters to capitals
+ * Return: char
+ **/
+
 char *string_toupper(char *str)
 {
 	int i;
